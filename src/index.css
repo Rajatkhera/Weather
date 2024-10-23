@@ -1,0 +1,12 @@
+.weather-main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 250px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGb5od6D1jeGbFCaYPqpCuCJ6BAjZugbRTUw&s);
+  
+  background-size: cover;
+  background-position: 100%;
+  background-size: 100vh;
+}
